@@ -31,7 +31,21 @@ nav ul {
   flex-direction: column; /* Mobile-first */
   align-items: center;
 }
+.responsive-form-container {
+  position: relative;
+  width: 100%;
+  padding-top: 75%; /* Adjusts the aspect ratio (75% is for a 4:3 ratio, 56.25% for 16:9) */
+  overflow: hidden; /* Ensures no overflow of the iframe */
+}
 
+.responsive-form-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: none; /* Removes iframe border */
+}
 nav ul li {
   margin: 10px 0;
 }
