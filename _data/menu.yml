@@ -1,0 +1,12 @@
+- name: Home
+  url: "/"
+- name: Contact
+  url: "/contact/"
+# - name: Poem
+#   url: "/poem/"
+# - name: Plays
+#   url: "/plays/"
+# - name: Games
+#   url: "/games/"
+# - name: Series
+#   url: "/series/"
