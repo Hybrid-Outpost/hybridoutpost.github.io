@@ -1,3 +1,3 @@
 title: Hybrid Outpost
 description: "the digital headquarters of our business"
-jekyll-theme-minima: minima  # Using a simple theme to start; you can customize later
+theme: jekyl-theme-minima  # Using a simple theme to start; you can customize later
