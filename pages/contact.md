@@ -6,7 +6,19 @@ permalink: /contact/
 
 # Contact Us
 
-Fill out the form below to get in touch!
+Reach out to us by filling out our contact form or schedule an appointment.
 
 <!-- Embed Google Form -->
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe894t8g4slSDyx61muMBoBxshLYcAv0Cu0-J4HwvfbebSebw/viewform?embedded=true" width="640" length="1000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+
+<div class="contact-options"> 
+  <!-- Button to open Google Form in a new tab -->
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSe894t8g4slSDyx61muMBoBxshLYcAv0Cu0-J4HwvfbebSebw/viewform?usp=sf_link" target="_blank" class="cta-button">
+    Contact
+  </a>
+
+  <!-- Button to schedule an appointment (placeholder link) -->
+  <a href="https://calendly.com/hybridoutpost" target="_blank" class="cta-button" role="button">
+    Schedule 
+    </a>
+</div>
