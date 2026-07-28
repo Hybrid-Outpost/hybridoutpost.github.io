@@ -2,6 +2,8 @@
   url: "/"
 - name: Contact
   url: "/contact/"
+- name: About
+  url: "/about/"
 # - name: Poem
 #   url: "/poem/"
 # - name: Plays
